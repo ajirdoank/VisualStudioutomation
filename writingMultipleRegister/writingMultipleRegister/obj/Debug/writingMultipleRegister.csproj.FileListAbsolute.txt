@@ -1,0 +1,14 @@
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\obj\Debug\writingMultipleRegister.csprojAssemblyReference.cache
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\obj\Debug\writingMultipleRegister.writeMultipleReg.resources
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\obj\Debug\writingMultipleRegister.Properties.Resources.resources
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\obj\Debug\writingMultipleRegister.csproj.GenerateResource.cache
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\obj\Debug\writingMultipleRegister.csproj.CoreCompileInputs.cache
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\bin\Debug\writingMultipleRegister.exe
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\bin\Debug\writingMultipleRegister.pdb
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\bin\Debug\FtdAdapter.dll
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\bin\Debug\Modbus.dll
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\bin\Debug\log4net.dll
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\bin\Debug\Unme.Common.dll
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\obj\Debug\writingMultipleRegister.csproj.CopyComplete
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\obj\Debug\writingMultipleRegister.exe
+D:\666.CoderWorkspace\github\VisualStudio\C#SQL\writingMultipleRegister\writingMultipleRegister\obj\Debug\writingMultipleRegister.pdb
